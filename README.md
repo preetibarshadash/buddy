@@ -29,3 +29,10 @@ The application is containerized using a **multi-stage Docker build** and hosted
 
 ---
 *Looking for the interface? Visit the [Buddy Frontend Repository](https://github.com/preetibarshadash/buddy-frontend.git).*
+
+
+## Author
+**Preetibarsha Dash**
+* Software Engineer
+* [LinkedIn](https://www.linkedin.com/in/preetibarsha-dash/)
+* [Portfolio](https://preetibarshadash.github.io/portfolio/)
