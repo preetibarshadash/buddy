@@ -1,4 +1,4 @@
-# Buddy: Socratic DSA Tutor (Backend) 
+# Buddy: Socratic DSA Companion (Backend) 
 
 The intelligent "Brain" behind Buddy. This Spring Boot application handles problem analysis and generates pedagogical hints using advanced prompt engineering.
 
